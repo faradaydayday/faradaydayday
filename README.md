@@ -1,6 +1,24 @@
 # 💫 About Me:
-Hi there! 👋 I'm Muhammad Fiqri Agustriawan<br><br>> "When you eliminate the impossible, whatever remains, however improbable, must contain the solution to your code." 🔍<br>> <br>> — Inspired by Sherlock Holmes & Developer's Life<br><br>## 🧑‍💻 About Me<br>A curious Full Stack Developer who treats every bug like a mystery waiting to be solved. Currently on an endless journey of learning and building in the vast world of web development.<br><br><br>### 💡 What I Believe<br>"The art of debugging is like detective work - observe carefully, gather evidence, and deduce logically."<br><br>### 🌱 Current Status<br>- 📚 Learning and growing every day<br>- 🔍 Solving coding mysteries<br>- 🛠️ Building web solutions<br>- 🤝 Open to collaboration<br><br>---<br>⚡ Fun fact: Like Sherlock Holmes with his pipe, I solve problems best with a cup of coffee ☕
+Hi there! 👋 I'm Muhammad Fiqri Agustriawan
 
+> "When you eliminate the impossible, whatever remains, however improbable, must contain the solution to your code." 🔍
+> 
+> — Inspired by Sherlock Holmes & Developer's Life
+
+## 🧑‍💻 About Me
+A curious Full Stack Developer who treats every bug like a mystery waiting to be solved. Currently on an endless journey of learning and building in the vast world of web development.
+
+## 💡 What I Believe
+"The art of debugging is like detective work - observe carefully, gather evidence, and deduce logically."
+
+## 🌱 Current Status
+- 📚 Learning and growing every day
+- 🔍 Solving coding mysteries  
+- 🛠️ Building web solutions
+- 🤝 Open to collaboration
+
+---
+⚡ Fun fact: Like Sherlock Holmes with his pipe, I solve problems best with a cup of coffee ☕
 
 # 🌐 Socials: #
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammadfiqri.muhammadfiqri.5648/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fkriq4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fiqri-agustriawan/) 
