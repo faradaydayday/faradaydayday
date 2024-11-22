@@ -1,79 +1,19 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7634F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Fiqri+%F0%9F%91%8B;Full+Stack+Developer;Code+Detective+%F0%9F%94%8D;Problem+Solver)](https://git.io/typing-svg)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=7634F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Detective+of+the+Code+%F0%9F%94%8D;Debugger+Extraordinaire+%F0%9F%95%B5%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-```typescript
-class CodeDetective {
-    constructor() {
-        this.name = "Muhammad Fiqri Agustriawan 🎯"
-        this.role = "Full Stack Developer 💻"
-        this.location = "Indonesia 🌏"
-        this.motto = () => {
-            return [
-                "Think like a detective 🔍",
-                "Code like an artist 🎨",
-                "Debug like a scientist 🧬"
-            ]
-        }
-    }
-
-    daily_routine() {
-        while (true) {
-            eat()
-            sleep()
-            code()
-            repeat()
-        }
-    }
-}
-```
+</div>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&duration=4000&pause=1000&color=7634F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%94%8D+Currently+investigating%3A;Next.js+Mysteries;TypeScript+Puzzles;React+Riddles;Backend+Brain-teasers)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=600&height=80&lines=📚+Learning+and+growing;🔍+Solving+coding+mysteries;🛠️+Building+web+solutions)](https://git.io/typing-svg)
 </div>
 
 > "Logic will get you from A to B.  
 > Imagination will take you everywhere." 
 > — Me, probably while debugging 🕵️‍♂️
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=7634F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%BB+Code;%F0%9F%94%8D+Investigate;%F0%9F%92%A1+Solve;%F0%9F%94%84+Repeat)](https://git.io/typing-svg)
-
-</div>
 
 ---
-
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple&hide_border=true" />
-</div>
-
-### Currently... 
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7634F7&center=true&vCenter=true&random=false&width=435&lines=📚+Learning+and+growing;🔍+Solving+coding+mysteries;🛠️+Building+web+solutions;🤝+Open+to+collaboration)](https://git.io/typing-svg)
-
-</div>
-
----
-<div align="center">
-  <a href="https://linkedin.com/in/fiqri-agustriawan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=50"/>
-  </a>
-  <a href="mailto:fiqriagustriawan234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=50"/>
-  </a>
-</div>
-</div>
 
 </div>
 
